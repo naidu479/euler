@@ -6,6 +6,18 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 
 ###Problems:
 
-* 1 - *ruby*
+*1 problem - *ruby*
 
 Add all the natural numbers below one thousand that are multiples of 3 or 5.
+
+*2 problem - *ruby*
+
+By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+
+*3 problem - *ruby*
+
+Find the largest prime factor of a composite number.
+
+* 10 peoblem - *ruby*
+
+Calculate the sum of all the primes below two million.
