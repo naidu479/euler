@@ -7,10 +7,11 @@
 
 def getMaxPrime(numb)
   def isPrime(n)
-    for i in 2...n
-         return false if (n%i) == 0
+    return false if n <= 1
+    2.upto(Math.sqrt(n).to_i) do |x|
+      return false if n%x == 0
     end
-    return true
+    true
   end
 
   primes = []
