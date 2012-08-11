@@ -6,5 +6,5 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 
 ###Problems:
 
-	* 1 - _ruby_
+	* 1 - *ruby*
 Add all the natural numbers below one thousand that are multiples of 3 or 5.
