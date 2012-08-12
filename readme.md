@@ -26,5 +26,7 @@ __10 problem__ - *ruby*
 __20 problem__ - *ruby*
 >Find the sum of digits in 100!
 
+__29 problem__ - *ruby*
+
 __30 problem__ - *ruby*
 >Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
