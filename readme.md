@@ -18,6 +18,14 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 Find the largest prime factor of a composite number.
 
-* 10 peoblem - *ruby*
+*10 peoblem - *ruby*
 
 Calculate the sum of all the primes below two million.
+
+*20 problem - *ruby*
+
+Find the sum of digits in 100!
+
+*30 problem - *ruby*
+
+Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
