@@ -18,6 +18,10 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 Find the largest prime factor of a composite number.
 
+*6 problem - *ruby*
+
+What is the difference between the sum of the squares and the square of the sums?
+
 *10 peoblem - *ruby*
 
 Calculate the sum of all the primes below two million.
