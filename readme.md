@@ -17,6 +17,9 @@ __2 problem__ - *ruby*
 __3 problem__ - *ruby*
 >Find the largest prime factor of a composite number.
 
+__5 problem__ - *ruby*
+What is the smallest number divisible by each of the numbers 1 to 20?
+
 __6 problem__ - *ruby*
 >What is the difference between the sum of the squares and the square of the sums?
 
