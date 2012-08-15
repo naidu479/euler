@@ -47,6 +47,9 @@ __16 problem__ - *ruby*
 __20 problem__ - *ruby*
 >Find the sum of digits in 100!
 
+__22 problem__ - *ruby*
+>What is the total of all the name scores in the file of first names?
+
 __25 problem__ - *ruby*
 >What is the first term in the Fibonacci sequence to contain 1000 digits?
 
