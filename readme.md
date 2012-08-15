@@ -38,6 +38,9 @@ __9 problem__ - *ruby*
 __10 problem__ - *ruby*
 >Calculate the sum of all the primes below two million.
 
+__11 problem__ - *ruby*
+>What is the greatest product of four adjacent numbers on the same straight line in the 20 by 20 grid?
+
 __14 problem__ - *ruby*
 >Find the longest sequence using a starting number under one million.
 
