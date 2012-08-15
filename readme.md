@@ -17,6 +17,9 @@ __2 problem__ - *ruby*
 __3 problem__ - *ruby*
 >Find the largest prime factor of a composite number.
 
+__4 problem__ - *ruby*
+>Find the largest palindrome made from the product of two 3-digit numbers.
+
 __5 problem__ - *ruby*
 >What is the smallest number divisible by each of the numbers 1 to 20?
 
