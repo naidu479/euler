@@ -29,6 +29,9 @@ __7 problem__ - *ruby*
 __8 problem__ - *ruby*
 >Discover the largest product of five consecutive digits in the 1000-digit number.
 
+__9 problem__ - *ruby*
+>Find the only Pythagorean triplet, {a, b, c}, for which a + b + c = 1000.
+
 __10 problem__ - *ruby*
 >Calculate the sum of all the primes below two million.
 
