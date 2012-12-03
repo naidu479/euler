@@ -56,6 +56,8 @@ __15 problem__ - *ruby*
 __16 problem__ - *ruby*
 >What is the sum of the digits of the number 21000?
 
+__18 problem__ - *ruby*
+>Find the maximum sum travelling from the top of the triangle to the base.
 __20 problem__ - *ruby*
 >Find the sum of digits in 100!
 
@@ -64,6 +66,12 @@ __21 problem__ - *ruby*
 
 __22 problem__ - *ruby*
 >What is the total of all the name scores in the file of first names?
+
+__23 problem__ - *ruby*
+>Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
+
+__24 problem__ - *ruby*
+>What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
 
 __25 problem__ - *ruby*
 >What is the first term in the Fibonacci sequence to contain 1000 digits?
@@ -76,3 +84,9 @@ __30 problem__ - *ruby*
 
 __48 problem__ - *ruby*
 >Find the last ten digits of 11 + 22 + ... + 10001000.
+
+__67 problem__ - *ruby*
+>Using an efficient algorithm find the maximal sum in the triangle?
+
+__81 problem__ - *ruby*
+>Find the minimal path sum from the top left to the bottom right by moving right and down.
