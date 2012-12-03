@@ -59,6 +59,9 @@ __16 problem__ - *ruby*
 __20 problem__ - *ruby*
 >Find the sum of digits in 100!
 
+__21 problem__ - *ruby*
+>Evaluate the sum of all amicable pairs under 10000.
+
 __22 problem__ - *ruby*
 >What is the total of all the name scores in the file of first names?
 
