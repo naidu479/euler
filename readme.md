@@ -41,8 +41,17 @@ __10 problem__ - *ruby*
 __11 problem__ - *ruby*
 >What is the greatest product of four adjacent numbers on the same straight line in the 20 by 20 grid?
 
+__12 problem__ - *ruby*
+>What is the value of the first triangle number to have over five hundred divisors?
+
+__13 problem__ - *ruby*
+>Find the first ten digits of the sum of one-hundred 50-digit numbers.
+
 __14 problem__ - *ruby*
 >Find the longest sequence using a starting number under one million.
+
+__15 problem__ - *ruby*
+>Starting in the top left corner in a 20 by 20 grid, how many routes are there to the bottom right corner?
 
 __16 problem__ - *ruby*
 >What is the sum of the digits of the number 21000?
